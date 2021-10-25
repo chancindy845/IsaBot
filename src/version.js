@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+*IsaBot ву Dragón*
 
 *Actualizado:* 18 de Septiembre del 2021
 *Versión actual:* 4.0
-*Ofrecida por:* shanduy™
+*Ofrecida por:* Dragón™
 
 
 *INFORME*
@@ -15,17 +15,8 @@ Cambiare la apikey pasando un mes o si veo muchos atercados o robos
 Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
 
 
-*COMO ACTUALIZAR EL BOT*
 
-https://cutt.ly/dWp5uqE
-
-
-*SIGUEME EN INSTAGRAM 🥸🧉*
-
-https://www.instagram.com/thepavos
-
-
-_*by shanduy*_
+_*by Dragón*_
 `
 
 }
