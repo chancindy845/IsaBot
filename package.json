@@ -1,5 +1,5 @@
 {
-  "name": "shanbot",
+  "name": "DragónBot",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -38,10 +38,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shanduy/ShanBot.git"
+    "url": "git+https://github.com/chancindy845/IsaBot.git"
   },
   "bugs": {
-    "url": "https://github.com/shanduy/ShanBot.git"
+    "url": "https://github.com/chancindy845/IsaBot.git"
   },
-  "homepage": "https://github.com/shanduy/ShanBot#readme"
+  "homepage": "https://github.com/chancindy845/IsaBot#readme"
 }
